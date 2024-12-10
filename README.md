@@ -34,5 +34,5 @@
 </h1>
 
 
-### :woman_technologist: About Me :
+### About Me :
 

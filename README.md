@@ -10,4 +10,8 @@
 | [Тестовое на стажера в банк](https://github.com/SergeyB81/Portfolio-DS/tree/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%BD%D0%B0%20%D1%81%D1%82%D0%B0%D0%B6%D0%B5%D1%80%D0%B0%20%D0%B2%20%D0%B1%D0%B0%D0%BD%D0%BA)| Нужно решить 4 тестовых задания: SQL, Python, Machine Learning, статистические тесты.|  SQL, Python, Machine Learning, ST-tests |
 | [Тестовое финтех дефолт](https://github.com/SergeyB81/Portfolio-DS/tree/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5%20%D1%84%D0%B8%D0%BD%D1%82%D0%B5%D1%85%20%D0%B4%D0%B5%D1%84%D0%BE%D0%BB%D1%82) | Нужно сделать модель, предсказывающую вероятность дефолта. | EDA, feature adder, yлучшение модели, кросс-валидация, pipeline, catboost, target encoding; *pandas*, *numpy*, *sklearn*, *matplotlib* |
 
+<div id="header" align="center">
+  <img src="https://giphy.com/stickers/coding-programmer-ngoding-jdPMeyv9rn0hZHh8n9"/>
+</div>
+
 

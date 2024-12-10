@@ -45,4 +45,82 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
+Вот результат того, что у нас получилось:
+
+![CleanShot 2023-05-03 at 07.50.29@2x.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c8b0bbf6-4682-4bec-a7dd-2f882c6901ec/CleanShot_2023-05-03_at_07.50.292x.png)
+
+### **Добавление статистики GitHub**
+
+Для заголовка добавьте следующий код в `README.md`:
+
+```markdown
+---
+
+### :fire: My Stats :
+```
+
+Мы добавим в этот раздел немного статистики по вашей активности на GitHub, например: количество коммитов, количество пулл-реквестов (`pull requests`) и т. д. На GitHub есть много проектов с открытым кодом, которые предоставляют различные данные по статистике. В этой статье мы будем использовать два проекта.
+
+Первый проект – это [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats). Он предоставляет следующие три показателя:
+
+1. Общее число контрибуций пользователя.
+2. Самый продолжительный период контрибуций.
+3. Статистика по текущему периоду.
+
+Получим доступ к статистике по следующему URL:
+
+```markdown
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+```
+
+Мы можем немного кастомизировать вывод статистики (изменить тему, цвет фона и т. д.) добавлением параметров к URL. Добавьте следующий код в `README.md`. Замените `your-github-username` на своё имя пользователя.
+
+```markdown
+[![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+```
+
+Вот что у нас должно получиться:
+
+![CleanShot 2023-05-03 at 07.55.01@2x.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6bfd1bb3-5704-4beb-a15d-645c614b77ee/CleanShot_2023-05-03_at_07.55.012x.png)
+
+Также мы можем использовать ресурс [Streak Stats Website](http://github-readme-streak-stats.herokuapp.com/demo/) для генерации URL:
+
+1. Зайдите на сайт [Streak Stats Website](http://github-readme-streak-stats.herokuapp.com/demo/). В поле `Username` введите имя пользователя на GitHub и заполните остальные поля.
+2. Далее нажмите `Submit`.
+
+3. После того как Markdown сгенерировался, нажмите `Copy To Clipboard` и добавьте скопированную информацию в `README.md`.
+
+![CleanShot 2023-05-03 at 07.56.15@2x.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/abae31bd-905e-46b9-8980-4c7e3875340a/CleanShot_2023-05-03_at_07.56.152x.png)
+
+Следующий проект, который мы будет использовать для статистики – это [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats), разработанный Anurag Hazra. Данный продукт предоставляет всевозможную статистику, но в этой статье мы будем использовать только одну. Она отображает ТОП языков программирования, которыми вы пользуетесь. Если вы хотите более подробно ознакомиться с этим проектом, можете почитать документацию в репозитории.
+
+Ниже пример Markdown для отображения языков программирования, которые вы используете:
+
+```markdown
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+```
+
+Здесь также можно доработать внешний вид (изменить цвет, ограничить количество языков и т. д.). Более подробно с возможностями кастомизации можно ознакомиться [здесь](https://github.com/anuraghazra/github-readme-stats).
+
+Добавьте следующий код в `README.md`. Замените `your-github-username` своими данными.
+
+```markdown
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+```
+
+Ниже пример того, что получилось:
+
+![CleanShot 2023-05-03 at 07.58.04@2x.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d8626c0c-81b2-4571-a1a1-bb36b008ba30/CleanShot_2023-05-03_at_07.58.042x.png)
+
+### Советы по оформлению репозиториев
+
+- Если у вас [README.md](http://README.md) проекта на английском, то и [README.md](http://README.md) репозиториев тоже должны быть на английском (если на русском, то логика действует такая же)
+- Не забывайте в начале [README.md](http://README.md) добавлять описание проекта
+- Далее инструкцию по установке зависимостей и запуску проекта
+- Так же будет здорово, если вы приложите скриншоты работы программы
+
+### П**римеры хорошо оформленных профилей на github:**
+
+- [пример 1](https://github.com/Stepashkin63)
+- [пример 2](https://github.com/Preposterone)
 

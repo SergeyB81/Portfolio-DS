@@ -43,3 +43,5 @@
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url
 
+- ### :hammer_and_wrench: Languages and Tools :
+

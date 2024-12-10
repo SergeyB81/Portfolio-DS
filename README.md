@@ -11,7 +11,7 @@
 | [Тестовое финтех дефолт](https://github.com/SergeyB81/Portfolio-DS/tree/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5%20%D1%84%D0%B8%D0%BD%D1%82%D0%B5%D1%85%20%D0%B4%D0%B5%D1%84%D0%BE%D0%BB%D1%82) | Нужно сделать модель, предсказывающую вероятность дефолта. | EDA, feature adder, yлучшение модели, кросс-валидация, pipeline, catboost, target encoding; *pandas*, *numpy*, *sklearn*, *matplotlib* |
 
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/coding-programmer-ngoding-jdPMeyv9rn0hZHh8n9"/>
+  <img src="https://giphy.com/stickers/coding-programmer-ngoding-jdPMeyv9rn0hZHh8n9" width="100"/>
 </div>
 
 
